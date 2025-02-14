@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=07meet" alt="07meet" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@meet42592174" target="blank"><img src="https://img.shields.io/twitter/follow/@meet42592174?logo=twitter&style=for-the-badge" alt="@meet42592174" /></a> </p>
-
 - ⚡ Fun fact **I like Games🎮**
 
 <h3 align="left">Connect with me:</h3>
