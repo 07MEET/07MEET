@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=07meet" alt="07meet" /></a> </p>
 
-- ⚡ Fun fact **I like Games🎮**
+- ⚡ Fun fact **I like Playing Games🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
