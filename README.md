@@ -1,18 +1,59 @@
-<h1 align="center">Hi 👋, I'm Meet Patel</h1>
+<h2 align="center">Meet Patel</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=07meet&label=Profile%20views&color=0e75b6&style=flat" alt="07meet" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=07meet" alt="07meet" /></a> </p>
-
-- ⚡ Fun fact **I like Playing Games🎮**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@meet42592174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@meet42592174" height="30" width="40" /></a>
-<a href="https://instagram.com/_.meet_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.meet_21" height="30" width="40" /></a>
+<p align="center">
+AI / ML Engineer in the making
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=07meet&show_icons=true&locale=en&layout=compact" alt="07meet" /></p>
+## 👋 About Me
+
+- 🎓 3rd Year B.Tech. student specializing in **Artificial Intelligence & Machine Learning**
+- 🧠 Hands-on experience with ML pipelines, deep learning models, and analytics
+- ⚙️ Focused on translating theory into real-world, scalable AI systems
+- 🎮 Gamer mindset — strategy, iteration, and optimization
+
+---
+
+## 🔍 Areas of Interest
+
+- Machine Learning & Applied NLP  
+- Deep Learning (CNNs, Audio & Vision)  
+- Generative AI & RAG-based Systems  
+- Data Analysis & Visualization  
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-111?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Machine Learning & Deep Learning**  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111?style=for-the-badge&logo=scikit-learn)
+![PyTorch](https://img.shields.io/badge/PyTorch-111?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111?style=for-the-badge&logo=tensorflow)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
+![Streamlit](https://img.shields.io/badge/Streamlit-111?style=for-the-badge&logo=streamlit)
+![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
+
+---
+
+## 🤝 Let’s Connect
+
+<a href="https://www.linkedin.com/in/meet-patel-63b214329/">
+  <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:meetpatel132465@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail">
+</a>
+
+---
+
+<p align="center">
+<em>Learning fast. Building smarter. One commit at a time.</em>
+</p>
