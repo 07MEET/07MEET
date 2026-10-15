@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="48" viewBox="0 0 480 48" role="img" aria-labelledby="headline-title headline-desc">
+  <title id="headline-title">Meet's current interests</title>
+  <desc id="headline-desc">Exploring video understanding. Building with Python and AI. Turning data into useful tools.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; font-size:18px; font-weight:500; fill:#82d6bf; }
+    .fallback { display:none; }
+    @media (prefers-reduced-motion:reduce) { .motion { display:none; } .fallback { display:inline; } }
+  </style>
+  <defs><clipPath id="line-window"><rect x="0" y="4" width="480" height="40"/></clipPath></defs>
+  <g class="motion" clip-path="url(#line-window)">
+    <g opacity="1">
+          <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.045;0.285;0.333333;1" dur="18s" begin="0s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0 10;0 0;0 0;0 -10;0 -10" keyTimes="0;0.045;0.285;0.333333;1" dur="18s" begin="0s" repeatCount="indefinite"/>
+          <text x="240" y="30" text-anchor="middle">Exploring video understanding</text>
+        </g><g opacity="0">
+          <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.045;0.285;0.333333;1" dur="18s" begin="6s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0 10;0 0;0 0;0 -10;0 -10" keyTimes="0;0.045;0.285;0.333333;1" dur="18s" begin="6s" repeatCount="indefinite"/>
+          <text x="240" y="30" text-anchor="middle">Building with Python and AI</text>
+        </g><g opacity="0">
+          <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.045;0.285;0.333333;1" dur="18s" begin="12s" repeatCount="indefinite"/>
+          <animateTransform attributeName="transform" type="translate" values="0 10;0 0;0 0;0 -10;0 -10" keyTimes="0;0.045;0.285;0.333333;1" dur="18s" begin="12s" repeatCount="indefinite"/>
+          <text x="240" y="30" text-anchor="middle">Turning data into useful tools</text>
+        </g>
+  </g>
+  <text class="fallback" x="240" y="30" text-anchor="middle">Exploring video understanding</text>
+</svg>
