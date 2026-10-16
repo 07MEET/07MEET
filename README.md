@@ -1,6 +1,6 @@
 <div align="center">
 
-# Meet Patel
+# Meet Dineshchandra Patel
 
 **AI/ML · Generative AI · Data**
 
