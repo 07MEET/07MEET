@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/meet-patel-63b214329/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-linkedin-dark.svg"><img src="assets/contact-linkedin-light.svg" alt="LinkedIn" width="100" height="28"></picture></a>&nbsp;&nbsp;
   <a href="mailto:meetpatel132465@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-email-dark.svg"><img src="assets/contact-email-light.svg" alt="Email" width="80" height="28"></picture></a>&nbsp;&nbsp;
-  <a href="https://07meet.github.io/portfolio/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-portfolio-dark.svg"><img src="assets/contact-portfolio-light.svg" alt="Portfolio" width="102" height="28"></picture></a>
+  <a href="https://07meet.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/contact-portfolio-dark.svg"><img src="assets/contact-portfolio-light.svg" alt="Portfolio" width="102" height="28"></picture></a>
 </p>
 <!-- contacts:end -->
 
